@@ -1,4 +1,4 @@
-import Atrium_para as AC
+import Atrium2 as AC
 """Defaults: L=200,v=0.5,d=0.05,e=0.05,rp=50,tot_time = 10**6
                  ,pace_rate = 220,seed1 = 1,seed2=2,seed3=3"""
 import numpy as np
