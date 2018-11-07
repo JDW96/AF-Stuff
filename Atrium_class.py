@@ -3,13 +3,10 @@
 """
 import numpy as np
 import pickle
-import cProfile
-import pstats
-pr = cProfile.Profile()
+
 class Atrium():
     """Creates the myocardium's structure.
     """
-    pr = cProfile.Profile()
     def __init__(self,L=200,v=0.2,d=0.05,e=0.05,rp=50,tot_time = 10**6
                  ,pace_rate = 220,seed1 = 1,seed2=2,seed3=3):
         self.size = L 
