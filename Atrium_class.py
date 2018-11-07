@@ -1,33 +1,4 @@
-"""numpy diff and numpy roll, until the probe is in the middle and then ignore 
-the boundary conditions try on small grid first 
-source sink, grid, Glass paper, integrate and fire oscillators, diff equations 
-describe the behaviour, Computational neuroscience. Put noise into the system,
-put in leakage into integrated-fire systems.
-Each cell is connected to diagonals as well but with deviations, and if it was
-a 3:1 source-sink it would be a candidate for 
-Clayton takes approach of continuous tissue find a way around it because it's 
-not true.
-Discreteness is key going to continuous would get in the way of seeing these
-phenomena. 
-Jack may do machine learning for conduction blocks. 
-Hexagonal models - conservation works in these models
-Documentation online - abuse it 
-Models - Clayton 2011
-
-    Reduce nu parallel
-    Then change connections
-    Then change conduction block
-    At each step get statistics.
-    
-By next week:
-    Read reports sent by Kim
-    Get model faster 
-    Research the different models.
-    Research the specific model I'll be using.
-    
-    Change model but stay in 2D.
-    3D sucks because you can't see the microscopic behaviour but you have more
-    freedom.
+"""
 
 """
 import numpy as np
